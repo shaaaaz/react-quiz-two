@@ -40,7 +40,7 @@ class QuizComponent extends Component {
         }
 
         let handleQuit = () => {
-            alert("Hello")
+            alert("Do you want to Quit?")
         }
 
         console.log(currQuestion)
