@@ -7,7 +7,6 @@
       "optionD": "150 degrees Celcius",
       "answer": "100 degrees Celcius"
   },
-
   {
       "question": "Who wrote Julius Caesar, Macbeth and Hamlet?",
       "optionA": "Wole Soyinka",
@@ -90,7 +89,7 @@
   },
 
   {
-      "question": "What’s the most important book in the Moslem religion?",
+      "question": "Whats the most important book in the Moslem religion?",
       "optionA": "The Koran",
       "optionB": "The Dictionary",
       "optionC": "The Bible",
@@ -99,7 +98,7 @@
   },
 
   {
-      "question": "What’s the capital of Ethiopia?",
+      "question": "Whats the capital of Ethiopia?",
       "optionA": "Cape Town",
       "optionB": "San Francisco",
       "optionC": "Abuja",
